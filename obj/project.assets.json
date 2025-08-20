@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitGeekBrains\\gogit\\gogit.csproj",
+      "projectUniqueName": "C:\\GitGeekBrains\\dzdzdz\\ControlVersionGB\\gogit.csproj",
       "projectName": "gogit",
-      "projectPath": "C:\\GitGeekBrains\\gogit\\gogit.csproj",
+      "projectPath": "C:\\GitGeekBrains\\dzdzdz\\ControlVersionGB\\gogit.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\GitGeekBrains\\gogit\\obj\\",
+      "outputPath": "C:\\GitGeekBrains\\dzdzdz\\ControlVersionGB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
